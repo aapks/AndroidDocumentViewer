@@ -58,6 +58,7 @@ TBSFileViewActivity.viewFile(context, filePath);
 
 版本： v1.11.1
 
+## [WPS Connect](https://aapks.com/apk/wps-connect/)
 
 > 介绍：
 > MuPDF is an open source software framework for viewing and converting PDF, XPS, and E-book documents. There are viewers for various platforms, several command line tools, and a software library for building tools and applications.
